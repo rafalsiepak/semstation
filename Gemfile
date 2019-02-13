@@ -53,7 +53,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'sqlite3', '~> 1.3.6'
 end
-
+  
 group :production do
   gem 'pg'
   gem 'rails_12factor'
