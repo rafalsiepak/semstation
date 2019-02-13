@@ -1,2 +1,13 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.body {
+  background-color: black;
+}
+
+.navbar.navbar-static-top {
+  border: 0;
+  background: #000;
+  color: #fff !important;
+  padding-bottom: 2px;
+}
